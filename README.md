@@ -1,6 +1,6 @@
-# NYU Deep Learning Course - Assignments Repository
+# NYU Deep Learning Projects
 
-This repository contains all assignments and projects from the NYU Deep Learning course (CSCI-GA 2572), covering fundamental concepts in deep learning from neural networks basics to advanced architectures.
+This repository contains deep learning projects and implementations covering fundamental concepts from neural networks basics to advanced architectures.
 
 ## Repository Structure
 
@@ -105,4 +105,4 @@ This repository demonstrates progression from:
 
 ---
 
-**Note**: This repository is for educational purposes, showcasing implementations from the NYU Deep Learning course.
+**Note**: This repository showcases deep learning implementations and projects.
